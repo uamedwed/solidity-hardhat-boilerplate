@@ -1,6 +1,6 @@
 {
   "name": "solidity-hardhat-boilerplate",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Boilerplate solidity by hardhat",
   "scripts": {
     "hardhat:node": "hardhat node",
